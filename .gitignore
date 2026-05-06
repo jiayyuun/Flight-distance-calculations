@@ -1,1 +1,14 @@
 
+config.py
+*.csv
+__pycache__/
+*.pyc
+config.py
+*.csv
+__pycache__/
+config.py
+*.csv
+__pycache__/
+config.py
+*.csv
+__pycache__/
